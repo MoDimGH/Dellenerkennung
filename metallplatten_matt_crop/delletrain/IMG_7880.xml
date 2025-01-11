@@ -1,0 +1,26 @@
+<annotation>
+	<folder>delletrain</folder>
+	<filename>IMG_7880.jpeg</filename>
+	<path>C:\Users\moses\Documents\Hochschule\WiSe2425\DEEPL\test\metallplatten_matt_crop\delletrain\IMG_7880.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1908</width>
+		<height>4012</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Delle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>1568</ymin>
+			<xmax>919</xmax>
+			<ymax>1670</ymax>
+		</bndbox>
+	</object>
+</annotation>

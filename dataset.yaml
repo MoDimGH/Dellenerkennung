@@ -1,0 +1,5 @@
+train: C:/Users/moses/Documents/Hochschule/WiSe2425/DEEPL/test/dataset/images/train  
+val: C:/Users/moses/Documents/Hochschule/WiSe2425/DEEPL/test/dataset/images/val   
+
+nc: 1 
+names: ['Delle'] 
